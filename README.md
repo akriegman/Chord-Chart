@@ -1,6 +1,6 @@
 # Chord-Chart
 
-An interactive version of this is now available on my website [aaah.run/chord_chart](aaah.run/chord_chart)
+An interactive version of this is now available on my website [aaah.run/chord_chart](https://aaah.run/chord_chart)
 
 A chart for finding chords on the guitar or other string instruments. 
 

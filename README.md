@@ -1,4 +1,7 @@
 # Chord-Chart
+
+An interactive version of this is now available on my website [aaah.run/chord_chart](aaah.run/chord_chart)
+
 A chart for finding chords on the guitar or other string instruments. 
 
 Here is an example of the chart for major chords on the guitar:
